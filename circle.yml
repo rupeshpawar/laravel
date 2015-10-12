@@ -11,4 +11,5 @@ machine:
 
 dependencies:
   pre:
+     - php composer.phar install
      - php artisan key:generate
