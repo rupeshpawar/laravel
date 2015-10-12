@@ -8,6 +8,7 @@ machine:
   php:
     version:
       5.5.11
-  dependancies:
-    pre:
+
+dependancies:
+  pre:
      - php artisan key:generate
