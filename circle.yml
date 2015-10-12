@@ -10,4 +10,4 @@ machine:
       5.5.11
   dependancies:
     pre:
-	- php artisan key:generate
+     - php artisan key:generate
